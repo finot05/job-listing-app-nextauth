@@ -36,12 +36,12 @@ Submits OTP and confirms success
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/b2b13a40-9c9d-4917-bd75-8b88dba034a2" />
 
 ## Technologies Used
-Next.js
-NextAuth.js
-TypeScript
-REST API Integration (using fetch)
-Tailwind CSS
-Google OAuth
+- Next.js
+- NextAuth.js
+- TypeScript
+- REST API Integration (using fetch)
+- Tailwind CSS
+- Google OAuth
 
 ## Installation and Running Locally
 1. Clone the Repository
