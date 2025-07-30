@@ -30,7 +30,7 @@ Shows required field alerts
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/5804fca2-f4b5-45fc-8813-54f46ab8c8cc" />
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/1301845f-0c3f-4bbe-b8a8-66cc17d66850" /> <img width="700" alt="image" src="https://github.com/user-attachments/assets/e1f5e068-1c0c-4083-a8c5-312b65bf4d39" />
 
----
+<br/>
 Verify Email Page
 Submits OTP and confirms success
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/b2b13a40-9c9d-4917-bd75-8b88dba034a2" />
